@@ -1,0 +1,10 @@
+{
+    "id": "chatgpt-plugin",
+    "name": "ChatGPT Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.9.12",
+    "description": "An Obsidian plugin to embed ChatGPT.",
+    "author": "Your Name",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+}
